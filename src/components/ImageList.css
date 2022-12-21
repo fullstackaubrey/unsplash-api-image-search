@@ -1,0 +1,16 @@
+.image-list {
+    margin-top: 20px;
+    columns: 6 225px;
+    column-gap: 15px;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+img:hover {
+    cursor: pointer;
+    transform: scale(1.04);
+    transition-duration: .5s;
+}

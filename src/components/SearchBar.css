@@ -1,0 +1,22 @@
+.search-bar {
+    padding: 10px;
+    color: white;
+}
+
+.search-bar form {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-bar label {
+    cursor: pointer;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-bottom: 10px;
+}
+
+.search-bar p {
+    cursor: pointer;
+    font-family: 'Lucida Sans', Verdana, sans-serif;
+    font-size: 14px;
+    color: coral;
+}
